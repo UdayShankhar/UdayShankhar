@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UdayShankhar
-- 👀 I’m interested in Full Stack DevelopmenCloud Computing
+- 👀 I’m interested in Full Stack Development and Cloud Computing
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
