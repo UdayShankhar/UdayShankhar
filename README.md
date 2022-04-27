@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 💬 Ask me about **Any Stack related to Web development**
+- 💬 Ask me about **Anything related to Web development**
 
 - 📫 How to reach me **shankhar87@gmail.com**
 
