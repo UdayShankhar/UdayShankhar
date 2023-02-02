@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Multiple Projects**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Advanced concepts of Web technologies**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 💬 Ask me about **Anything related to Web development**
+- 💬 Ask me about **Anything related to Web and Mobile development**
 
 - 📫 How to reach me **shankhar87@gmail.com**
 
