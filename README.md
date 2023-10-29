@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Shankhar</h1>
-<h3 align="center">A passionate Full Stack Developer from Chennai , India</h3>
+<h3 align="center">An experienced Frontend / Software Developer</h3>
 
 - 🔭 I’m currently working on **Multiple Projects**
 
