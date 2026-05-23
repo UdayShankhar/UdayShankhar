@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Uday Shankhar</h1>
-<h3 align="center">An experienced Frontend / Software Developer</h3>
+<h3 align="center">Senior Software Engineer | Frontend Architect | Web & Mobile Enthusiast</h3>
 
-- 🔭 I’m currently working on **Multiple Projects**
+* 🔭 Currently building and scaling **enterprise-grade web applications and digital banking platforms**
 
-- 🌱 I’m currently learning **Advanced concepts of Web technologies**
+* 🌱 Exploring **system design, performance optimization, scalable frontend architecture, and cloud-native technologies**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+* 👯 Open to collaborating on **high-impact Open Source and innovative tech projects**
 
-- 💬 Ask me about **Anything related to Web and Mobile development**
+* 💡 Passionate about **creating performant, accessible, and user-centric applications**
 
-- 📫 How to reach me **shankhar87@gmail.com**
+* 💬 Ask me about **Angular, TypeScript, Frontend Architecture, Performance Optimization, Nx Monorepos, and Web Development**
+
+* 🚀 Experienced in delivering **scalable solutions across enterprise and fintech domains**
+
+* 📫 How to reach me **[shankhar87@gmail.com](mailto:shankhar87@gmail.com)**
+
+* ⚡ Fun fact: **I enjoy solving complex engineering problems and turning ideas into scalable products**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
