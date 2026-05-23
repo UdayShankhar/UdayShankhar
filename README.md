@@ -9,7 +9,7 @@
 
 * 💡 Passionate about **creating performant, accessible, and user-centric applications**
 
-* 💬 Ask me about **Angular, TypeScript, Frontend Architecture, Performance Optimization, Nx Monorepos, and Web Development**
+* 💬 Ask me about **Angular, Reactjs, TypeScript, Frontend Architecture, Performance Optimization, Nx Monorepos, and Web Development**
 
 * 🚀 Experienced in delivering **scalable solutions across enterprise and fintech domains**
 
